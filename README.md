@@ -16,7 +16,8 @@ I have also connected drivers via
 ## Hardware Specifications:
 - **Printer:** Artillery Sidewinder X2
 - **Mainboard:** Stock ruby 1.2
-- **Drivers:** 4x TMC2209
+- **Drivers:** 2x TMC2209 for X and Y axix and z axis using one stock fs31w01 in Series
+  also extruder is smae fs31w01 (which i think that its a clone of TMC2100) 
 - **Firmware:** Klipper
 
 in my case the maximum stable speed for this printer is around 210mm/s and around 4/5000mm/s acceleration
