@@ -1,8 +1,10 @@
 # Artillery Sidewinder X2 - Klipper Configuration (TMC2209 Mod)
 
+## i have to add files one by one duo to the internet limitations here and i can't upload anuthing in any way
+
 This repository contains my personal Klipper configuration for the **Artillery Sidewinder X2**. 
 
-⚠️ **Note:** This configuration is specifically tuned for a printer that has been upgraded with **TMC2209 stepper drivers**. If you are using the stock drivers, you may need to adjust the current and pin settings plus turning off the UART.
+**Note:** This configuration is specifically tuned for a printer that has been upgraded with **TMC2209 stepper drivers**. If you are using the stock drivers, you may need to adjust the current and pin settings plus turning off the UART.
 
 I have also connected drivers via 
 
@@ -22,5 +24,8 @@ I have also connected drivers via
 
 in my case the maximum stable speed for this printer is around 210mm/s and around 4/5000mm/s acceleration
 
-i'll upload more data here in next commits
+for drivers you just need to connect the RX pin of tmc2209 to one of the free pins in EXT1 port
+ i connected the first driver (X Axis) to PB4 and Y axis to PB3
+
+i'll upload more data such as my device and input shape pictures soon if i can
 
