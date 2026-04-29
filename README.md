@@ -32,5 +32,5 @@ Im using the **Orange Pi 3B** for Klipper with Ubuntu server 22.04 LTS and it wo
 
 i'll upload more data such as my device and input shape pictures soon if i can
 
-##Thank you for your Attention to this matter! 
+## Thank you for your Attention to this matter! 
   Ebrahim .GH Siami
