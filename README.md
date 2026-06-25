@@ -36,9 +36,13 @@ To enable UART for the TMC2209 drivers, you need to connect the **RX pin** of th
 ### Driver Pinout & Connection Guide
 Below you can find the driver pinout reference and a photo of my actual wiring on the mainboard:
 
-| TMC2209 Driver Pinout | Mainboard Connection & Wiring |
-|:---:|:---:|
-| ![TMC2209 Pinout](images/BTT_TMC2209_Pinout.jpg) | ![TMC2209 Connection](images/TMC2209_Connection.jpg) |
+| TMC2209 Driver Pinout |
+|:---:|
+| ![TMC2209 Pinout](images/BTT_TMC2209_Pinout.jpg) |
+
+| Mainboard Connection & Wiring |
+|:---:|
+| ![TMC2209 Connection](images/TMC2209_Connection.jpg) |
 
 ---
 
